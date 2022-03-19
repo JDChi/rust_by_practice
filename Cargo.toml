@@ -6,3 +6,43 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[[bin]]
+name = "chapter3_1"
+path = "src/chapter3/1.rs"
+
+[[bin]]
+name = "chapter3_2"
+path = "src/chapter3/2.rs"
+
+[[bin]]
+name = "chapter3_3"
+path = "src/chapter3/3.rs"
+
+[[bin]]
+name = "chapter3_4"
+path = "src/chapter3/4.rs"
+
+[[bin]]
+name = "chapter3_5"
+path = "src/chapter3/5.rs"
+
+[[bin]]
+name = "chapter3_6"
+path = "src/chapter3/6.rs"
+
+[[bin]]
+name = "chapter3_7"
+path = "src/chapter3/7.rs"
+
+[[bin]]
+name = "chapter3_8"
+path = "src/chapter3/8.rs"
+
+[[bin]]
+name = "chapter3_9"
+path = "src/chapter3/9.rs"
