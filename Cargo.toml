@@ -90,3 +90,27 @@ path = "src/chapter4/chapter4_1/10.rs"
 [[bin]]
 name = "chapter4_1_11"
 path = "src/chapter4/chapter4_1/11.rs"
+
+[[bin]]
+name = "chapter4_2_1"
+path = "src/chapter4/chapter4_2/1.rs"
+
+[[bin]]
+name = "chapter4_2_2"
+path = "src/chapter4/chapter4_2/2.rs"
+
+[[bin]]
+name = "chapter4_2_3"
+path = "src/chapter4/chapter4_2/3.rs"
+
+[[bin]]
+name = "chapter4_2_4"
+path = "src/chapter4/chapter4_2/4.rs"
+
+[[bin]]
+name = "chapter4_2_5"
+path = "src/chapter4/chapter4_2/5.rs"
+
+[[bin]]
+name = "chapter4_2_6"
+path = "src/chapter4/chapter4_2/6.rs"
