@@ -46,3 +46,47 @@ path = "src/chapter3/8.rs"
 [[bin]]
 name = "chapter3_9"
 path = "src/chapter3/9.rs"
+
+[[bin]]
+name = "chapter4_1_1"
+path = "src/chapter4/chapter4_1/1.rs"
+
+[[bin]]
+name = "chapter4_1_2"
+path = "src/chapter4/chapter4_1/2.rs"
+
+[[bin]]
+name = "chapter4_1_3"
+path = "src/chapter4/chapter4_1/3.rs"
+
+[[bin]]
+name = "chapter4_1_4"
+path = "src/chapter4/chapter4_1/4.rs"
+
+[[bin]]
+name = "chapter4_1_5"
+path = "src/chapter4/chapter4_1/5.rs"
+
+[[bin]]
+name = "chapter4_1_6"
+path = "src/chapter4/chapter4_1/6.rs"
+
+[[bin]]
+name = "chapter4_1_7"
+path = "src/chapter4/chapter4_1/7.rs"
+
+[[bin]]
+name = "chapter4_1_8"
+path = "src/chapter4/chapter4_1/8.rs"
+
+[[bin]]
+name = "chapter4_1_9"
+path = "src/chapter4/chapter4_1/9.rs"
+
+[[bin]]
+name = "chapter4_1_10"
+path = "src/chapter4/chapter4_1/10.rs"
+
+[[bin]]
+name = "chapter4_1_11"
+path = "src/chapter4/chapter4_1/11.rs"
