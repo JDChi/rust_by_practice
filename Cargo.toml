@@ -379,3 +379,80 @@ path = 'src/chapter6/chapter6_6/5.rs'
 
 name = 'chapter6_6_6'
 path = 'src/chapter6/chapter6_6/6.rs'
+
+[[bin]]
+
+name = 'chapter7_1'
+path = 'src/chapter7/1.rs'
+
+[[bin]]
+
+name = 'chapter7_2'
+path = 'src/chapter7/2.rs'
+
+[[bin]]
+
+name = 'chapter7_3'
+path = 'src/chapter7/3.rs'
+
+[[bin]]
+
+name = 'chapter7_4'
+path = 'src/chapter7/4.rs'
+
+[[bin]]
+
+name = 'chapter7_5'
+path = 'src/chapter7/5.rs'
+
+[[bin]]
+
+name = 'chapter7_6'
+path = 'src/chapter7/6.rs'
+
+[[bin]]
+
+name = 'chapter7_7'
+path = 'src/chapter7/7.rs'
+
+[[bin]]
+
+name = 'chapter7_8'
+path = 'src/chapter7/8.rs'
+
+[[bin]]
+
+name = 'chapter7_9'
+path = 'src/chapter7/9.rs'
+
+[[bin]]
+
+name = 'chapter7_10'
+path = 'src/chapter7/10.rs'
+
+[[bin]]
+
+name = 'chapter7_11'
+path = 'src/chapter7/11.rs'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
