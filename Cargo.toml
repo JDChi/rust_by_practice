@@ -535,3 +535,15 @@ path = 'src/chapter10/chapter10_1/6.rs'
 [[bin]]
 name = 'chapter10_1_7'
 path = 'src/chapter10/chapter10_1/7.rs'
+
+[[bin]]
+name = 'chapter10_2_1'
+path = 'src/chapter10/chapter10_2/1.rs'
+
+[[bin]]
+name = 'chapter10_2_2'
+path = 'src/chapter10/chapter10_2/2.rs'
+
+[[bin]]
+name = 'chapter10_2_3'
+path = 'src/chapter10/chapter10_2/3.rs'
