@@ -547,3 +547,39 @@ path = 'src/chapter10/chapter10_2/2.rs'
 [[bin]]
 name = 'chapter10_2_3'
 path = 'src/chapter10/chapter10_2/3.rs'
+
+[[bin]]
+name = 'chapter10_3_1'
+path = 'src/chapter10/chapter10_3/1.rs'
+
+[[bin]]
+name = 'chapter10_3_2'
+path = 'src/chapter10/chapter10_3/2.rs'
+
+[[bin]]
+name = 'chapter10_3_3'
+path = 'src/chapter10/chapter10_3/3.rs'
+
+[[bin]]
+name = 'chapter10_3_4'
+path = 'src/chapter10/chapter10_3/4.rs'
+
+[[bin]]
+name = 'chapter10_3_5'
+path = 'src/chapter10/chapter10_3/5.rs'
+
+[[bin]]
+name = 'chapter10_3_6'
+path = 'src/chapter10/chapter10_3/6.rs'
+
+[[bin]]
+name = 'chapter10_3_7'
+path = 'src/chapter10/chapter10_3/7.rs'
+
+[[bin]]
+name = 'chapter10_3_8'
+path = 'src/chapter10/chapter10_3/8.rs'
+
+[[bin]]
+name = 'chapter10_3_9'
+path = 'src/chapter10/chapter10_3/9.rs'
