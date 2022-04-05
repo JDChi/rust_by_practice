@@ -583,3 +583,23 @@ path = 'src/chapter10/chapter10_3/8.rs'
 [[bin]]
 name = 'chapter10_3_9'
 path = 'src/chapter10/chapter10_3/9.rs'
+
+[[bin]]
+name = 'chapter10_4_1'
+path = 'src/chapter10/chapter10_4/1.rs'
+
+[[bin]]
+name = 'chapter10_4_2'
+path = 'src/chapter10/chapter10_4/2.rs'
+
+[[bin]]
+name = 'chapter10_4_3'
+path = 'src/chapter10/chapter10_4/3.rs'
+
+[[bin]]
+name = 'chapter10_4_4'
+path = 'src/chapter10/chapter10_4/4.rs'
+
+[[bin]]
+name = 'chapter10_4_5'
+path = 'src/chapter10/chapter10_4/5.rs'
